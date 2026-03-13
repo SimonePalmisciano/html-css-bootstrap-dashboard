@@ -54,3 +54,16 @@ form.d-flex>button.btn {
 th.title {
     width: 50%;
 }
+
+
+/**********************
+        * MODALE *
+***********************/
+
+.modal-content {
+    width: 700px;
+}
+
+.modal {
+    --bs-modal-width: 700px;
+}
